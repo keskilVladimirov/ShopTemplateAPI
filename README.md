@@ -1,2 +1,2 @@
 # ShopTemplateAPI
-Это API в ASP.Net Core для магазина в Xamarin Forms. 
+This is an ASP.Net Core API for a store in Xamarin Forms.
